@@ -1,0 +1,31 @@
+_repo: Idylls-of-the-King_610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+description: 'Idylls of the King: The Coming of Arthur, Gareth and Lynette, Lancelot
+  and Elaine, The Holy Grail, Pelleas and Ettarre, The Passing of Arthur -- Sir Launcelot
+  and Queen Guinevere -- Sir Galahad -- The Lady of Shalott.'
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthur, King -- Poetry'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Arthurian romances -- Adaptations'
+- GITenberg
+title: Idylls of the King
+url: http://www.gutenberg.org/ebooks/610
