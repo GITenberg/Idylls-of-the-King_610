@@ -1,5 +1,8 @@
 _repo: Idylls-of-the-King_610
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tennyson, Alfred Tennyson, Baron
@@ -12,6 +15,8 @@ creator:
 description: 'Idylls of the King: The Coming of Arthur, Gareth and Lynette, Lancelot
   and Elaine, The Holy Grail, Pelleas and Ettarre, The Passing of Arthur -- Sir Launcelot
   and Queen Guinevere -- Sir Galahad -- The Lady of Shalott.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/610#Idylls-of-the-King
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
